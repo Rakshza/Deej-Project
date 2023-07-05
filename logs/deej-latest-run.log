@@ -1,0 +1,504 @@
+2023-06-29 07:10:27.333	info	main                       	Version info	{"gitCommit": "7567f83", "versionTag": "v0.9.10", "buildType": "release"}
+2023-06-29 07:10:27.334	info	deej.config                	Loaded config successfully
+2023-06-29 07:10:27.334	info	deej.config                	Config values	{"sliderMapping": "<5 sliders mapped to 6 targets>", "connectionInfo": {"COMPort":"COM5","BaudRate":9600}, "invertSliders": false}
+2023-06-29 07:10:27.588	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<9 audio sessions>"}
+2023-06-29 07:10:27.657	info	deej                       	Run loop starting
+2023-06-29 07:10:27.662	info	deej.serial.com5           	Connected	{"conn": {}}
+2023-06-29 07:10:30.971	info	deej.serial.com5           	Detected sliders	{"amount": 1}
+2023-06-29 07:11:21.040	info	deej.tray                  	Quit menu item clicked, stopping
+2023-06-29 07:11:21.040	info	deej                       	Stopping
+2023-06-29 07:12:43.006	info	main                       	Version info	{"gitCommit": "7567f83", "versionTag": "v0.9.10", "buildType": "release"}
+2023-06-29 07:12:43.007	info	deej.config                	Loaded config successfully
+2023-06-29 07:12:43.007	info	deej.config                	Config values	{"sliderMapping": "<5 sliders mapped to 6 targets>", "connectionInfo": {"COMPort":"COM5","BaudRate":9600}, "invertSliders": false}
+2023-06-29 07:12:43.324	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<8 audio sessions>"}
+2023-06-29 07:12:43.368	info	deej                       	Run loop starting
+2023-06-29 07:12:43.369	info	deej.serial.com5           	Connected	{"conn": {}}
+2023-06-29 07:12:47.108	info	deej.serial.com5           	Detected sliders	{"amount": 5}
+2023-06-29 07:12:48.677	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<8 audio sessions>"}
+2023-06-29 07:12:54.209	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<8 audio sessions>"}
+2023-06-29 07:12:59.569	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<8 audio sessions>"}
+2023-06-29 07:13:04.906	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<8 audio sessions>"}
+2023-06-29 07:13:10.459	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<8 audio sessions>"}
+2023-06-29 07:13:15.864	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<8 audio sessions>"}
+2023-06-29 07:13:21.506	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<8 audio sessions>"}
+2023-06-29 07:13:27.087	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<8 audio sessions>"}
+2023-06-29 07:13:32.370	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<8 audio sessions>"}
+2023-06-29 07:13:37.754	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<8 audio sessions>"}
+2023-06-29 07:13:42.961	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<8 audio sessions>"}
+2023-06-29 07:13:48.294	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<8 audio sessions>"}
+2023-06-29 07:13:53.852	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<8 audio sessions>"}
+2023-06-29 07:13:59.252	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<8 audio sessions>"}
+2023-06-29 07:14:04.878	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<8 audio sessions>"}
+2023-06-29 07:14:22.071	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<8 audio sessions>"}
+2023-06-29 07:14:27.706	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<8 audio sessions>"}
+2023-06-29 07:14:36.293	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<8 audio sessions>"}
+2023-06-29 07:14:42.644	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<8 audio sessions>"}
+2023-06-29 07:16:09.343	info	deej.tray                  	Quit menu item clicked, stopping
+2023-06-29 07:16:09.343	info	deej                       	Stopping
+2023-06-29 07:21:51.318	info	main                       	Version info	{"gitCommit": "7567f83", "versionTag": "v0.9.10", "buildType": "release"}
+2023-06-29 07:21:51.331	info	deej.config                	Loaded config successfully
+2023-06-29 07:21:51.331	info	deej.config                	Config values	{"sliderMapping": "<5 sliders mapped to 6 targets>", "connectionInfo": {"COMPort":"COM5","BaudRate":9600}, "invertSliders": false}
+2023-06-29 07:21:51.594	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<8 audio sessions>"}
+2023-06-29 07:21:51.651	info	deej                       	Run loop starting
+2023-06-29 07:21:51.652	info	deej.serial.com5           	Connected	{"conn": {}}
+2023-06-29 07:21:55.429	info	deej.serial.com5           	Detected sliders	{"amount": 5}
+2023-06-29 07:21:56.994	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<8 audio sessions>"}
+2023-06-29 07:22:02.509	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<8 audio sessions>"}
+2023-06-29 07:22:08.160	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<8 audio sessions>"}
+2023-06-29 07:22:13.673	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<8 audio sessions>"}
+2023-06-29 07:22:21.550	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<8 audio sessions>"}
+2023-06-29 07:22:26.916	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<8 audio sessions>"}
+2023-06-29 07:22:32.388	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<8 audio sessions>"}
+2023-06-29 07:26:38.646	info	deej.tray                  	Quit menu item clicked, stopping
+2023-06-29 07:26:38.646	info	deej                       	Stopping
+2023-06-29 07:26:56.373	info	main                       	Version info	{"gitCommit": "7567f83", "versionTag": "v0.9.10", "buildType": "release"}
+2023-06-29 07:26:56.374	info	deej.config                	Loaded config successfully
+2023-06-29 07:26:56.374	info	deej.config                	Config values	{"sliderMapping": "<5 sliders mapped to 6 targets>", "connectionInfo": {"COMPort":"COM5","BaudRate":9600}, "invertSliders": false}
+2023-06-29 07:26:56.749	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<9 audio sessions>"}
+2023-06-29 07:26:56.820	info	deej                       	Run loop starting
+2023-06-29 07:26:56.821	info	deej.serial.com5           	Connected	{"conn": {}}
+2023-06-29 07:27:00.556	info	deej.serial.com5           	Detected sliders	{"amount": 5}
+2023-06-29 07:27:02.090	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<9 audio sessions>"}
+2023-06-29 07:27:07.471	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<9 audio sessions>"}
+2023-06-29 07:27:13.170	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<9 audio sessions>"}
+2023-06-29 07:27:18.568	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<9 audio sessions>"}
+2023-06-29 07:27:23.924	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<9 audio sessions>"}
+2023-06-29 07:27:29.293	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<9 audio sessions>"}
+2023-06-29 07:27:34.672	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<9 audio sessions>"}
+2023-06-29 07:27:40.065	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<9 audio sessions>"}
+2023-06-29 07:27:45.466	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<9 audio sessions>"}
+2023-06-29 07:27:50.882	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<9 audio sessions>"}
+2023-06-29 07:27:56.262	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<9 audio sessions>"}
+2023-06-29 07:28:01.620	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<9 audio sessions>"}
+2023-06-29 07:28:07.037	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<9 audio sessions>"}
+2023-06-29 07:28:12.414	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<9 audio sessions>"}
+2023-06-29 07:28:17.809	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<9 audio sessions>"}
+2023-06-29 07:28:23.178	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<9 audio sessions>"}
+2023-06-29 07:28:28.562	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<9 audio sessions>"}
+2023-06-29 07:28:30.928	info	deej.tray                  	Quit menu item clicked, stopping
+2023-06-29 07:28:30.928	info	deej                       	Stopping
+2023-06-29 09:14:55.166	info	main                       	Version info	{"gitCommit": "7567f83", "versionTag": "v0.9.10", "buildType": "release"}
+2023-06-29 09:14:55.210	info	deej.config                	Loaded config successfully
+2023-06-29 09:14:55.210	info	deej.config                	Config values	{"sliderMapping": "<5 sliders mapped to 6 targets>", "connectionInfo": {"COMPort":"COM5","BaudRate":9600}, "invertSliders": false}
+2023-06-29 09:14:56.208	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<5 audio sessions>"}
+2023-06-29 09:14:56.356	info	deej                       	Run loop starting
+2023-06-29 09:14:56.356	warn	deej.serial                	Failed to open serial connection	{"error": "The system cannot find the file specified."}
+2023-06-29 09:14:56.356	warn	deej                       	Failed to start first-time serial connection	{"error": "open serial connection: The system cannot find the file specified."}
+2023-06-29 09:14:56.356	warn	deej                       	Provided COM port seems wrong, notifying user and closing	{"comPort": "COM5"}
+2023-06-29 09:14:56.357	info	deej.notifier              	Sending toast notification	{"title": "Can't connect to COM5!", "message": "This serial port doesn't exist, check your configuration and make sure it's set correctly."}
+2023-06-29 09:14:57.373	info	deej                       	Stopping
+2023-06-29 09:15:13.714	info	main                       	Version info	{"gitCommit": "7567f83", "versionTag": "v0.9.10", "buildType": "release"}
+2023-06-29 09:15:13.717	info	deej.config                	Loaded config successfully
+2023-06-29 09:15:13.717	info	deej.config                	Config values	{"sliderMapping": "<5 sliders mapped to 6 targets>", "connectionInfo": {"COMPort":"COM5","BaudRate":9600}, "invertSliders": false}
+2023-06-29 09:15:14.552	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<5 audio sessions>"}
+2023-06-29 09:15:14.683	info	deej                       	Run loop starting
+2023-06-29 09:15:14.683	warn	deej.serial                	Failed to open serial connection	{"error": "The system cannot find the file specified."}
+2023-06-29 09:15:14.684	warn	deej                       	Failed to start first-time serial connection	{"error": "open serial connection: The system cannot find the file specified."}
+2023-06-29 09:15:14.684	warn	deej                       	Provided COM port seems wrong, notifying user and closing	{"comPort": "COM5"}
+2023-06-29 09:15:14.684	info	deej.notifier              	Sending toast notification	{"title": "Can't connect to COM5!", "message": "This serial port doesn't exist, check your configuration and make sure it's set correctly."}
+2023-06-29 09:15:15.731	info	deej                       	Stopping
+2023-06-29 09:15:16.308	info	main                       	Version info	{"gitCommit": "7567f83", "versionTag": "v0.9.10", "buildType": "release"}
+2023-06-29 09:15:16.310	info	deej.config                	Loaded config successfully
+2023-06-29 09:15:16.311	info	deej.config                	Config values	{"sliderMapping": "<5 sliders mapped to 6 targets>", "connectionInfo": {"COMPort":"COM5","BaudRate":9600}, "invertSliders": false}
+2023-06-29 09:15:17.112	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<5 audio sessions>"}
+2023-06-29 09:15:17.221	info	deej                       	Run loop starting
+2023-06-29 09:15:17.222	warn	deej.serial                	Failed to open serial connection	{"error": "The system cannot find the file specified."}
+2023-06-29 09:15:17.222	warn	deej                       	Failed to start first-time serial connection	{"error": "open serial connection: The system cannot find the file specified."}
+2023-06-29 09:15:17.222	warn	deej                       	Provided COM port seems wrong, notifying user and closing	{"comPort": "COM5"}
+2023-06-29 09:15:17.222	info	deej.notifier              	Sending toast notification	{"title": "Can't connect to COM5!", "message": "This serial port doesn't exist, check your configuration and make sure it's set correctly."}
+2023-06-29 09:15:18.135	info	deej                       	Stopping
+2023-06-29 09:23:33.409	info	main                       	Version info	{"gitCommit": "7567f83", "versionTag": "v0.9.10", "buildType": "release"}
+2023-06-29 09:23:33.413	info	deej.config                	Loaded config successfully
+2023-06-29 09:23:33.413	info	deej.config                	Config values	{"sliderMapping": "<5 sliders mapped to 5 targets>", "connectionInfo": {"COMPort":"COM5","BaudRate":9600}, "invertSliders": false}
+2023-06-29 09:23:34.218	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 09:23:34.343	info	deej                       	Run loop starting
+2023-06-29 09:23:34.343	warn	deej.serial                	Failed to open serial connection	{"error": "The system cannot find the file specified."}
+2023-06-29 09:23:34.343	warn	deej                       	Failed to start first-time serial connection	{"error": "open serial connection: The system cannot find the file specified."}
+2023-06-29 09:23:34.343	warn	deej                       	Provided COM port seems wrong, notifying user and closing	{"comPort": "COM5"}
+2023-06-29 09:23:34.344	info	deej.notifier              	Sending toast notification	{"title": "Can't connect to COM5!", "message": "This serial port doesn't exist, check your configuration and make sure it's set correctly."}
+2023-06-29 09:23:35.240	info	deej                       	Stopping
+2023-06-29 09:24:03.855	info	main                       	Version info	{"gitCommit": "7567f83", "versionTag": "v0.9.10", "buildType": "release"}
+2023-06-29 09:24:03.857	info	deej.config                	Loaded config successfully
+2023-06-29 09:24:03.857	info	deej.config                	Config values	{"sliderMapping": "<5 sliders mapped to 5 targets>", "connectionInfo": {"COMPort":"COM5","BaudRate":9600}, "invertSliders": false}
+2023-06-29 09:24:04.817	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 09:24:04.951	info	deej                       	Run loop starting
+2023-06-29 09:24:04.951	warn	deej.serial                	Failed to open serial connection	{"error": "The system cannot find the file specified."}
+2023-06-29 09:24:04.952	warn	deej                       	Failed to start first-time serial connection	{"error": "open serial connection: The system cannot find the file specified."}
+2023-06-29 09:24:04.952	warn	deej                       	Provided COM port seems wrong, notifying user and closing	{"comPort": "COM5"}
+2023-06-29 09:24:04.952	info	deej.notifier              	Sending toast notification	{"title": "Can't connect to COM5!", "message": "This serial port doesn't exist, check your configuration and make sure it's set correctly."}
+2023-06-29 09:24:06.265	info	deej                       	Stopping
+2023-06-29 09:24:27.455	info	main                       	Version info	{"gitCommit": "7567f83", "versionTag": "v0.9.10", "buildType": "release"}
+2023-06-29 09:24:27.457	info	deej.config                	Loaded config successfully
+2023-06-29 09:24:27.458	info	deej.config                	Config values	{"sliderMapping": "<5 sliders mapped to 5 targets>", "connectionInfo": {"COMPort":"COM5","BaudRate":9600}, "invertSliders": false}
+2023-06-29 09:24:28.314	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 09:24:28.431	info	deej                       	Run loop starting
+2023-06-29 09:24:28.434	info	deej.serial.com5           	Connected	{"conn": {}}
+2023-06-29 09:24:32.164	info	deej.serial.com5           	Detected sliders	{"amount": 5}
+2023-06-29 09:24:32.988	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 09:24:38.236	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 09:24:43.474	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 09:24:48.855	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 09:24:53.938	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 09:24:59.060	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 09:25:04.908	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 09:25:10.504	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 09:25:15.586	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 09:25:21.227	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 09:25:26.529	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 09:25:31.545	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 09:25:36.641	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 09:25:41.731	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 09:25:46.909	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 09:25:52.903	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 09:25:58.807	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 09:26:04.619	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 09:26:09.709	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 09:26:15.237	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 09:26:20.393	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 09:26:25.634	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 09:26:30.829	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 09:26:36.708	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 09:26:42.405	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 09:26:47.585	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 09:26:52.705	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 09:26:57.850	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 09:27:03.625	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 09:27:08.807	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 09:27:14.813	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 09:27:20.554	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 09:27:30.306	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 09:27:35.486	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 09:27:41.112	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 09:27:46.457	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 09:27:52.009	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 09:27:58.510	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 09:28:03.734	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 09:28:09.429	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 09:28:14.717	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 09:28:19.950	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 09:28:25.181	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 09:28:30.214	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 09:28:35.445	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 09:28:40.982	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 09:28:46.100	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 09:28:51.361	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 09:28:56.669	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 09:29:02.052	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 09:29:07.440	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 09:29:12.819	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 09:29:18.217	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 09:29:23.610	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 09:29:28.993	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 09:29:34.385	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 09:29:39.763	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 09:29:45.143	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 09:29:50.532	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 09:29:55.923	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 09:30:01.311	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 09:30:06.700	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 09:30:12.086	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 09:30:17.472	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 09:30:22.861	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 09:30:28.248	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 09:30:33.632	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 09:30:39.018	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 09:30:44.402	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 09:30:49.796	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 09:30:55.172	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 09:31:00.570	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 09:31:05.960	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 09:31:11.339	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 09:31:16.727	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 09:31:22.124	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 09:31:27.503	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 09:31:32.906	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 09:31:38.291	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 09:31:43.679	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 09:31:49.058	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 09:31:54.454	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 09:31:59.840	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 09:32:05.242	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 09:32:10.631	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 10:04:20.301	info	deej.tray                  	Quit menu item clicked, stopping
+2023-06-29 10:04:20.301	info	deej                       	Stopping
+2023-06-29 10:17:41.033	info	main                       	Version info	{"gitCommit": "7567f83", "versionTag": "v0.9.10", "buildType": "release"}
+2023-06-29 10:17:41.053	info	deej.config                	Loaded config successfully
+2023-06-29 10:17:41.053	info	deej.config                	Config values	{"sliderMapping": "<5 sliders mapped to 5 targets>", "connectionInfo": {"COMPort":"COM5","BaudRate":9600}, "invertSliders": false}
+2023-06-29 10:17:41.438	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<5 audio sessions>"}
+2023-06-29 10:17:41.511	info	deej                       	Run loop starting
+2023-06-29 10:17:41.511	warn	deej.serial                	Failed to open serial connection	{"error": "The system cannot find the file specified."}
+2023-06-29 10:17:41.512	warn	deej                       	Failed to start first-time serial connection	{"error": "open serial connection: The system cannot find the file specified."}
+2023-06-29 10:17:41.512	warn	deej                       	Provided COM port seems wrong, notifying user and closing	{"comPort": "COM5"}
+2023-06-29 10:17:41.512	info	deej.notifier              	Sending toast notification	{"title": "Can't connect to COM5!", "message": "This serial port doesn't exist, check your configuration and make sure it's set correctly."}
+2023-06-29 10:17:42.078	info	deej                       	Stopping
+2023-06-29 10:17:52.527	info	main                       	Version info	{"gitCommit": "7567f83", "versionTag": "v0.9.10", "buildType": "release"}
+2023-06-29 10:17:52.529	info	deej.config                	Loaded config successfully
+2023-06-29 10:17:52.529	info	deej.config                	Config values	{"sliderMapping": "<5 sliders mapped to 5 targets>", "connectionInfo": {"COMPort":"COM5","BaudRate":9600}, "invertSliders": false}
+2023-06-29 10:17:52.925	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<5 audio sessions>"}
+2023-06-29 10:17:52.980	info	deej                       	Run loop starting
+2023-06-29 10:17:52.982	info	deej.serial.com5           	Connected	{"conn": {}}
+2023-06-29 10:17:56.675	info	deej.serial.com5           	Detected sliders	{"amount": 5}
+2023-06-29 10:17:58.110	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<6 audio sessions>"}
+2023-06-29 10:18:03.530	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<6 audio sessions>"}
+2023-06-29 10:18:09.919	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<6 audio sessions>"}
+2023-06-29 10:18:17.318	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<6 audio sessions>"}
+2023-06-29 10:18:24.222	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 10:18:29.464	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 10:18:34.744	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 10:18:40.000	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 10:18:45.757	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 10:18:51.411	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 10:18:56.967	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 10:19:02.634	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 10:19:08.669	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 10:19:13.783	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 10:19:20.421	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 10:19:27.039	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 10:19:33.043	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 10:19:39.157	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 10:19:44.768	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 10:19:50.375	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 10:19:56.483	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 10:20:01.783	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 10:20:08.548	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 10:20:13.749	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 10:20:19.606	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 10:20:25.271	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 10:20:30.939	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 10:20:36.607	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 10:20:42.274	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 10:20:47.923	warn	deej.session_finder        	CoInitializeEx failed with E_FALSE due to redundant invocation
+2023-06-29 10:20:47.944	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 10:20:53.612	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 10:21:00.756	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2023-06-29 10:21:05.037	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<8 audio sessions>"}
+2023-06-29 10:21:10.599	warn	deej.session_finder        	CoInitializeEx failed with E_FALSE due to redundant invocation
+2023-06-29 10:21:10.640	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<8 audio sessions>"}
+2023-06-29 10:21:16.317	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<8 audio sessions>"}
+2023-06-29 10:21:21.962	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<8 audio sessions>"}
+2023-06-29 10:21:27.639	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<8 audio sessions>"}
+2023-06-29 10:21:33.302	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<8 audio sessions>"}
+2023-06-29 10:21:38.962	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<8 audio sessions>"}
+2023-06-29 10:21:44.601	warn	deej.session_finder        	CoInitializeEx failed with E_FALSE due to redundant invocation
+2023-06-29 10:21:44.629	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<8 audio sessions>"}
+2023-06-29 10:21:50.298	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<8 audio sessions>"}
+2023-06-29 10:21:55.964	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<8 audio sessions>"}
+2023-06-29 10:22:01.632	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<8 audio sessions>"}
+2023-06-29 10:22:07.271	warn	deej.session_finder        	CoInitializeEx failed with E_FALSE due to redundant invocation
+2023-06-29 10:22:07.300	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<8 audio sessions>"}
+2023-06-29 10:22:12.939	warn	deej.session_finder        	CoInitializeEx failed with E_FALSE due to redundant invocation
+2023-06-29 10:22:12.970	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<8 audio sessions>"}
+2023-06-29 10:22:18.607	warn	deej.session_finder        	CoInitializeEx failed with E_FALSE due to redundant invocation
+2023-06-29 10:22:18.636	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<8 audio sessions>"}
+2023-06-29 10:22:24.304	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<8 audio sessions>"}
+2023-06-29 10:22:29.972	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<8 audio sessions>"}
+2023-06-29 10:22:35.641	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<8 audio sessions>"}
+2023-06-29 10:22:41.309	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<8 audio sessions>"}
+2023-06-29 10:22:46.946	warn	deej.session_finder        	CoInitializeEx failed with E_FALSE due to redundant invocation
+2023-06-29 10:22:46.979	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<8 audio sessions>"}
+2023-06-29 10:22:52.612	warn	deej.session_finder        	CoInitializeEx failed with E_FALSE due to redundant invocation
+2023-06-29 10:22:52.640	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<8 audio sessions>"}
+2023-06-29 10:22:58.307	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<8 audio sessions>"}
+2023-06-29 10:23:03.972	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<8 audio sessions>"}
+2023-06-29 10:23:09.638	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<8 audio sessions>"}
+2023-06-29 10:23:15.305	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<8 audio sessions>"}
+2023-06-29 10:23:20.971	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<8 audio sessions>"}
+2023-06-29 10:23:26.640	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<8 audio sessions>"}
+2023-06-29 10:23:32.308	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<8 audio sessions>"}
+2023-06-29 10:23:37.975	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<8 audio sessions>"}
+2023-06-29 10:23:43.641	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<8 audio sessions>"}
+2023-06-29 10:23:49.308	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<8 audio sessions>"}
+2023-06-29 10:23:54.974	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<8 audio sessions>"}
+2023-06-29 10:24:00.640	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<8 audio sessions>"}
+2023-06-29 10:24:06.307	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<8 audio sessions>"}
+2023-06-29 10:24:11.974	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<8 audio sessions>"}
+2023-06-29 10:24:17.640	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<8 audio sessions>"}
+2023-06-29 10:24:23.304	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<8 audio sessions>"}
+2023-06-29 10:24:28.972	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<8 audio sessions>"}
+2023-06-29 10:24:34.639	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<8 audio sessions>"}
+2023-06-29 10:24:40.312	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<8 audio sessions>"}
+2023-06-29 10:24:45.825	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<8 audio sessions>"}
+2023-06-29 10:24:51.505	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<9 audio sessions>"}
+2023-06-29 10:24:57.452	warn	deej.session_finder        	CoInitializeEx failed with E_FALSE due to redundant invocation
+2023-06-29 10:24:57.517	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<10 audio sessions>"}
+2023-06-29 10:25:03.104	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<10 audio sessions>"}
+2023-06-29 10:25:08.664	warn	deej.session_finder        	CoInitializeEx failed with E_FALSE due to redundant invocation
+2023-06-29 10:25:08.710	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<10 audio sessions>"}
+2023-06-29 10:25:15.222	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<10 audio sessions>"}
+2023-06-29 10:25:22.140	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<10 audio sessions>"}
+2023-06-29 10:25:27.800	warn	deej.session_finder        	CoInitializeEx failed with E_FALSE due to redundant invocation
+2023-06-29 10:25:27.851	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<10 audio sessions>"}
+2023-06-29 10:25:33.469	warn	deej.session_finder        	CoInitializeEx failed with E_FALSE due to redundant invocation
+2023-06-29 10:25:33.512	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<10 audio sessions>"}
+2023-06-29 10:25:39.176	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<10 audio sessions>"}
+2023-06-29 10:25:44.841	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<10 audio sessions>"}
+2023-06-29 10:25:50.507	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<10 audio sessions>"}
+2023-06-29 10:25:56.129	warn	deej.session_finder        	CoInitializeEx failed with E_FALSE due to redundant invocation
+2023-06-29 10:25:56.174	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<10 audio sessions>"}
+2023-06-29 10:26:01.796	warn	deej.session_finder        	CoInitializeEx failed with E_FALSE due to redundant invocation
+2023-06-29 10:26:01.842	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<10 audio sessions>"}
+2023-06-29 10:26:07.505	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<10 audio sessions>"}
+2023-06-29 10:26:13.173	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<10 audio sessions>"}
+2023-06-29 10:26:18.844	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<10 audio sessions>"}
+2023-06-29 10:26:24.507	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<10 audio sessions>"}
+2023-06-29 10:26:30.176	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<10 audio sessions>"}
+2023-06-29 10:26:35.798	warn	deej.session_finder        	CoInitializeEx failed with E_FALSE due to redundant invocation
+2023-06-29 10:26:35.846	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<10 audio sessions>"}
+2023-06-29 10:26:41.466	warn	deej.session_finder        	CoInitializeEx failed with E_FALSE due to redundant invocation
+2023-06-29 10:26:41.513	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<10 audio sessions>"}
+2023-06-29 10:26:47.135	warn	deej.session_finder        	CoInitializeEx failed with E_FALSE due to redundant invocation
+2023-06-29 10:26:47.179	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<10 audio sessions>"}
+2023-06-29 10:26:52.849	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<10 audio sessions>"}
+2023-06-29 10:26:58.471	warn	deej.session_finder        	CoInitializeEx failed with E_FALSE due to redundant invocation
+2023-06-29 10:26:58.516	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<10 audio sessions>"}
+2023-06-29 10:27:04.138	warn	deej.session_finder        	CoInitializeEx failed with E_FALSE due to redundant invocation
+2023-06-29 10:27:04.183	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<10 audio sessions>"}
+2023-06-29 10:27:09.848	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<10 audio sessions>"}
+2023-06-29 10:27:15.514	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<10 audio sessions>"}
+2023-06-29 10:27:21.178	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<10 audio sessions>"}
+2023-06-29 10:27:26.800	warn	deej.session_finder        	CoInitializeEx failed with E_FALSE due to redundant invocation
+2023-06-29 10:27:26.844	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<10 audio sessions>"}
+2023-06-29 10:27:32.509	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<10 audio sessions>"}
+2023-06-29 10:27:38.175	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<10 audio sessions>"}
+2023-06-29 10:27:43.841	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<10 audio sessions>"}
+2023-06-29 10:27:49.507	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<10 audio sessions>"}
+2023-06-29 10:27:55.171	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<10 audio sessions>"}
+2023-06-29 10:28:00.834	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<10 audio sessions>"}
+2023-06-29 10:28:07.603	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<10 audio sessions>"}
+2023-06-29 10:28:13.261	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<10 audio sessions>"}
+2023-06-29 10:28:18.930	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<10 audio sessions>"}
+2023-06-29 10:28:24.495	warn	deej.session_finder        	CoInitializeEx failed with E_FALSE due to redundant invocation
+2023-06-29 10:28:24.541	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<10 audio sessions>"}
+2023-06-29 10:28:29.592	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<10 audio sessions>"}
+2023-06-29 10:28:36.059	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<10 audio sessions>"}
+2023-06-29 10:28:41.113	info	deej.config                	Loaded config successfully
+2023-06-29 10:28:41.113	info	deej.config                	Config values	{"sliderMapping": "<5 sliders mapped to 5 targets>", "connectionInfo": {"COMPort":"COM5","BaudRate":9600}, "invertSliders": false}
+2023-06-29 10:28:41.113	info	deej.config                	Reloaded config successfully
+2023-06-29 10:28:41.113	info	deej.notifier              	Sending toast notification	{"title": "Configuration reloaded!", "message": "Your changes have been applied."}
+2023-06-29 10:28:41.730	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<10 audio sessions>"}
+2023-06-29 10:28:41.821	info	deej.sessions              	Detected config reload, attempting to re-acquire all audio sessions
+2023-06-29 10:28:42.423	info	deej.serial.com5           	Detected sliders	{"amount": 5}
+2023-06-29 10:28:48.625	info	deej.config                	Loaded config successfully
+2023-06-29 10:28:48.625	info	deej.config                	Config values	{"sliderMapping": "<5 sliders mapped to 6 targets>", "connectionInfo": {"COMPort":"COM5","BaudRate":9600}, "invertSliders": false}
+2023-06-29 10:28:48.625	info	deej.config                	Reloaded config successfully
+2023-06-29 10:28:48.625	info	deej.notifier              	Sending toast notification	{"title": "Configuration reloaded!", "message": "Your changes have been applied."}
+2023-06-29 10:28:49.147	info	deej.sessions              	Detected config reload, attempting to re-acquire all audio sessions
+2023-06-29 10:28:49.198	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<10 audio sessions>"}
+2023-06-29 10:28:49.692	info	deej.serial.com5           	Detected sliders	{"amount": 5}
+2023-06-29 10:28:54.584	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<10 audio sessions>"}
+2023-06-29 10:29:03.323	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<10 audio sessions>"}
+2023-06-29 10:29:08.359	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<10 audio sessions>"}
+2023-06-29 10:29:13.613	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<10 audio sessions>"}
+2023-06-29 10:29:18.916	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<10 audio sessions>"}
+2023-06-29 10:29:24.218	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<10 audio sessions>"}
+2023-06-29 10:29:32.445	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<10 audio sessions>"}
+2023-06-29 10:29:38.100	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<10 audio sessions>"}
+2023-06-29 10:29:45.677	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<10 audio sessions>"}
+2023-06-29 10:30:01.738	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<10 audio sessions>"}
+2023-06-29 10:30:06.777	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<10 audio sessions>"}
+2023-06-29 10:30:16.560	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<10 audio sessions>"}
+2023-06-29 10:30:21.768	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<10 audio sessions>"}
+2023-06-29 10:30:26.940	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<10 audio sessions>"}
+2023-06-29 10:30:31.943	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<10 audio sessions>"}
+2023-06-29 10:30:38.105	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<10 audio sessions>"}
+2023-06-29 10:30:46.824	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<10 audio sessions>"}
+2023-06-29 10:30:52.085	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<10 audio sessions>"}
+2023-06-29 10:31:37.294	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<10 audio sessions>"}
+2023-06-29 10:32:23.231	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<10 audio sessions>"}
+2023-06-29 10:33:08.474	warn	deej.session_finder        	CoInitializeEx failed with E_FALSE due to redundant invocation
+2023-06-29 10:33:08.517	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<10 audio sessions>"}
+2023-06-29 10:33:53.751	warn	deej.session_finder        	CoInitializeEx failed with E_FALSE due to redundant invocation
+2023-06-29 10:33:53.792	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<10 audio sessions>"}
+2023-06-29 10:34:39.292	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<10 audio sessions>"}
+2023-06-29 10:35:08.522	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<10 audio sessions>"}
+2023-06-29 10:35:15.523	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<10 audio sessions>"}
+2023-06-29 10:35:21.225	warn	deej.session_finder        	CoInitializeEx failed with E_FALSE due to redundant invocation
+2023-06-29 10:35:21.267	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<10 audio sessions>"}
+2023-06-29 10:35:29.469	warn	deej.session_finder        	CoInitializeEx failed with E_FALSE due to redundant invocation
+2023-06-29 10:35:29.511	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<10 audio sessions>"}
+2023-06-29 10:35:36.770	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<10 audio sessions>"}
+2023-06-29 10:36:22.378	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<10 audio sessions>"}
+2023-06-29 10:36:30.576	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<10 audio sessions>"}
+2023-06-29 10:37:15.780	warn	deej.session_finder        	CoInitializeEx failed with E_FALSE due to redundant invocation
+2023-06-29 10:37:15.830	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<10 audio sessions>"}
+2023-06-29 13:59:59.058	info	main                       	Version info	{"gitCommit": "7567f83", "versionTag": "v0.9.10", "buildType": "release"}
+2023-06-29 13:59:59.060	info	deej.config                	Loaded config successfully
+2023-06-29 13:59:59.060	info	deej.config                	Config values	{"sliderMapping": "<5 sliders mapped to 7 targets>", "connectionInfo": {"COMPort":"COM5","BaudRate":9600}, "invertSliders": false}
+2023-06-29 13:59:59.388	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<13 audio sessions>"}
+2023-06-29 13:59:59.442	info	deej                       	Run loop starting
+2023-06-29 13:59:59.442	warn	deej.serial                	Failed to open serial connection	{"error": "Access is denied."}
+2023-06-29 13:59:59.442	warn	deej                       	Failed to start first-time serial connection	{"error": "open serial connection: Access is denied."}
+2023-06-29 13:59:59.442	warn	deej                       	Serial port seems busy, notifying user and closing	{"comPort": "COM5"}
+2023-06-29 13:59:59.442	info	deej.notifier              	Sending toast notification	{"title": "Can't connect to COM5!", "message": "This serial port is busy, make sure to close any serial monitor or other deej instance."}
+2023-06-29 13:59:59.811	info	deej                       	Stopping
+2023-06-29 14:00:15.201	info	main                       	Version info	{"gitCommit": "7567f83", "versionTag": "v0.9.10", "buildType": "release"}
+2023-06-29 14:00:15.201	info	deej.config                	Loaded config successfully
+2023-06-29 14:00:15.201	info	deej.config                	Config values	{"sliderMapping": "<5 sliders mapped to 7 targets>", "connectionInfo": {"COMPort":"COM5","BaudRate":9600}, "invertSliders": false}
+2023-06-29 14:00:15.533	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<13 audio sessions>"}
+2023-06-29 14:00:15.574	info	deej                       	Run loop starting
+2023-06-29 14:00:15.576	info	deej.serial.com5           	Connected	{"conn": {}}
+2023-06-29 14:00:19.107	info	deej.serial.com5           	Detected sliders	{"amount": 5}
+2023-06-29 14:01:01.766	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<13 audio sessions>"}
+2023-06-29 14:01:57.233	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<14 audio sessions>"}
+2023-06-29 14:07:35.131	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<14 audio sessions>"}
+2023-06-29 14:09:45.381	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<14 audio sessions>"}
+2023-06-29 14:10:30.983	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<14 audio sessions>"}
+2023-06-29 14:11:17.674	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<14 audio sessions>"}
+2023-06-29 14:20:11.797	info	deej.tray                  	Quit menu item clicked, stopping
+2023-06-29 14:20:11.797	info	deej                       	Stopping
+2023-06-29 14:50:07.935	info	main                       	Version info	{"gitCommit": "7567f83", "versionTag": "v0.9.10", "buildType": "release"}
+2023-06-29 14:50:07.936	info	deej.config                	Loaded config successfully
+2023-06-29 14:50:07.936	info	deej.config                	Config values	{"sliderMapping": "<5 sliders mapped to 7 targets>", "connectionInfo": {"COMPort":"COM5","BaudRate":9600}, "invertSliders": false}
+2023-06-29 14:50:08.385	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<20 audio sessions>"}
+2023-06-29 14:50:08.445	info	deej                       	Run loop starting
+2023-06-29 14:50:08.446	info	deej.serial.com5           	Connected	{"conn": {}}
+2023-06-29 14:50:11.972	info	deej.serial.com5           	Detected sliders	{"amount": 5}
+2023-06-29 14:51:05.413	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<20 audio sessions>"}
+2023-06-29 14:53:36.763	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<20 audio sessions>"}
+2023-06-29 15:05:55.967	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<20 audio sessions>"}
+2023-06-29 15:15:02.860	info	deej.tray                  	Quit menu item clicked, stopping
+2023-06-29 15:15:02.860	info	deej                       	Stopping
+2023-06-29 15:22:54.884	info	main                       	Version info	{"gitCommit": "7567f83", "versionTag": "v0.9.10", "buildType": "release"}
+2023-06-29 15:22:54.885	info	deej.config                	Loaded config successfully
+2023-06-29 15:22:54.885	info	deej.config                	Config values	{"sliderMapping": "<5 sliders mapped to 7 targets>", "connectionInfo": {"COMPort":"COM5","BaudRate":9600}, "invertSliders": false}
+2023-06-29 15:22:55.374	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<20 audio sessions>"}
+2023-06-29 15:22:55.421	info	deej                       	Run loop starting
+2023-06-29 15:22:55.422	info	deej.serial.com5           	Connected	{"conn": {}}
+2023-06-29 15:22:58.954	info	deej.serial.com5           	Detected sliders	{"amount": 5}
+2023-06-29 15:23:43.636	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<20 audio sessions>"}
+2023-06-29 15:24:58.305	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<20 audio sessions>"}
+2023-06-29 15:25:43.546	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<20 audio sessions>"}
+2023-06-29 15:32:50.330	info	deej.tray                  	Quit menu item clicked, stopping
+2023-06-29 15:32:50.330	info	deej                       	Stopping
+2023-06-29 17:37:00.972	info	main                       	Version info	{"gitCommit": "7567f83", "versionTag": "v0.9.10", "buildType": "release"}
+2023-06-29 17:37:00.973	info	deej.config                	Loaded config successfully
+2023-06-29 17:37:00.973	info	deej.config                	Config values	{"sliderMapping": "<5 sliders mapped to 7 targets>", "connectionInfo": {"COMPort":"COM5","BaudRate":9600}, "invertSliders": false}
+2023-06-29 17:37:01.413	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<20 audio sessions>"}
+2023-06-29 17:37:01.472	info	deej                       	Run loop starting
+2023-06-29 17:37:01.473	info	deej.serial.com5           	Connected	{"conn": {}}
+2023-06-29 17:37:05.009	info	deej.serial.com5           	Detected sliders	{"amount": 5}
+2023-06-29 17:38:59.697	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<20 audio sessions>"}
+2023-06-29 17:39:20.723	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<20 audio sessions>"}
+2023-06-29 17:39:26.138	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<20 audio sessions>"}
+2023-06-29 17:40:12.671	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<20 audio sessions>"}
+2023-06-30 21:37:21.799	info	main                       	Version info	{"gitCommit": "7567f83", "versionTag": "v0.9.10", "buildType": "release"}
+2023-06-30 21:37:21.820	info	deej.config                	Loaded config successfully
+2023-06-30 21:37:21.820	info	deej.config                	Config values	{"sliderMapping": "<5 sliders mapped to 7 targets>", "connectionInfo": {"COMPort":"COM5","BaudRate":9600}, "invertSliders": false}
+2023-06-30 21:37:22.393	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<15 audio sessions>"}
+2023-06-30 21:37:22.483	info	deej                       	Run loop starting
+2023-06-30 21:37:22.484	info	deej.serial.com5           	Connected	{"conn": {}}
+2023-06-30 21:37:26.005	info	deej.serial.com5           	Detected sliders	{"amount": 5}
+2023-06-30 21:38:13.255	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<16 audio sessions>"}
+2023-06-30 21:38:58.382	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<16 audio sessions>"}
+2023-06-30 21:46:25.769	info	deej.tray                  	Quit menu item clicked, stopping
+2023-06-30 21:46:25.769	info	deej                       	Stopping
+2023-07-02 11:22:05.565	info	main                       	Version info	{"gitCommit": "7567f83", "versionTag": "v0.9.10", "buildType": "release"}
+2023-07-02 11:22:05.596	info	deej.config                	Loaded config successfully
+2023-07-02 11:22:05.596	info	deej.config                	Config values	{"sliderMapping": "<5 sliders mapped to 7 targets>", "connectionInfo": {"COMPort":"COM5","BaudRate":9600}, "invertSliders": false}
+2023-07-02 11:22:06.166	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<21 audio sessions>"}
+2023-07-02 11:22:06.332	info	deej                       	Run loop starting
+2023-07-02 11:22:06.333	info	deej.serial.com5           	Connected	{"conn": {}}
+2023-07-02 11:22:09.881	info	deej.serial.com5           	Detected sliders	{"amount": 5}
+2023-07-02 16:02:26.392	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<16 audio sessions>"}
+2023-07-02 16:09:57.291	info	deej.tray                  	Quit menu item clicked, stopping
+2023-07-02 16:09:57.291	info	deej                       	Stopping
